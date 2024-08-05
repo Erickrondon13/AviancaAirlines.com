@@ -105,10 +105,11 @@
   }
 
   .banner{ 
-    min-height: 100vh;
-    background-image: url("../img/azafata.jpg");
+    min-height: 80vh;
+    background-image: url("../imagen/azafata.jpg");
+    background-size: 100%;
     background-repeat: no-repeat;
-    color: #FFF; 
+    color: #FFF;  
   } 
 
   .banner .banner-body { 
